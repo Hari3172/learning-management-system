@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "app.employee_id",
+    "type": "java.lang.String",
+    "description": "A description for 'app.employee_id'"
+  },
+  {
+    "name": "app.mentor_id",
+    "type": "java.lang.String",
+    "description": "A description for 'app.mentor_id'"
+  },
+  {
+    "name": "app.admin_id",
+    "type": "java.lang.String",
+    "description": "A description for 'app.admin_id'"
+  },
+  {
+    "name": "app.secrete",
+    "type": "java.lang.String",
+    "description": "A description for 'app.secrete'"
+  },
+  {
+    "name": "app.batch_id",
+    "type": "java.lang.String",
+    "description": "A description for 'app.batch_id'"
+  }
+]}
