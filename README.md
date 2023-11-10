@@ -12,8 +12,7 @@ TechnoElevate. As part of this assessment you need to use
 ## Acknowledgements
 
  -[ADMIN Reference Link:]:
-https://xd.adobe.com/view/
-3531e20-d9d1-4509-b10c-b5a1779d4bcd-8600/
+https://xd.adobe.com/view/3531e20-d9d1-4509-b10c-b5a1779d4bcd-8600/
 
  -[MENTOR Reference Link:]:
  https://xd.adobe.com/view/7c759877-9b02-43d0-91c8-d83c4e855bea-2926/
